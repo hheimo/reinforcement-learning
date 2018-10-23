@@ -1,3 +1,3 @@
 # reinforcement-learning
 
-## OpenAI Taxi v2: [Link](https://www.google.com)
+## OpenAI Taxi v2: [Jupyter Notebook](OpenAI_Taxi)
